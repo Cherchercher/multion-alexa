@@ -1,0 +1,139 @@
+{
+    "version": "1.0",
+    "session": {
+        "new": false,
+        "sessionId": "amzn1.echo-api.session.fa9f37e8-6b9a-4d6a-aff4-65b64fa30143",
+        "application": {
+            "applicationId": "amzn1.ask.skill.238f26fd-3881-4fa0-900c-4be7161c8d01"
+        },
+        "attributes": {
+            "chat_history": []
+        },
+        "user": {
+            "userId": "amzn1.ask.account.AMAS3CNYDGUGEUUOGMID52X3T62OUAEGWVGHV7ADJX563YF7LYFJ5XDBDJQEZB5HIRPW7RSNKAE5EJ6IGMJRV46MU5NEOKVUDJBAN3AQLXGPI5MDXHSPHRIKJRPGP6BEOPKDV44LPVYSMZ24N47FJYKT35DXBPVBJJKHYJFAFY2HXKAYSHM7LNKHKI2ZCHF7CPAJXO6RSDPEDPMHGED5GS6F5LAZ5OUCBP23JUXIBI"
+        },
+        "affiliatedResources": []
+    },
+    "context": {
+        "Viewports": [
+            {
+                "type": "APL",
+                "id": "medHub",
+                "shape": "RECTANGLE",
+                "dpi": 160,
+                "presentationType": "OVERLAY",
+                "canRotate": false,
+                "configuration": {
+                    "current": {
+                        "mode": "HUB",
+                        "video": {
+                            "codecs": [
+                                "H_264_42",
+                                "H_264_41"
+                            ]
+                        },
+                        "size": {
+                            "type": "DISCRETE",
+                            "pixelWidth": 1280,
+                            "pixelHeight": 800
+                        }
+                    }
+                }
+            }
+        ],
+        "Viewport": {
+            "experiences": [
+                {
+                    "arcMinuteWidth": 221,
+                    "arcMinuteHeight": 162,
+                    "canRotate": false,
+                    "canResize": false
+                }
+            ],
+            "mode": "HUB",
+            "shape": "RECTANGLE",
+            "pixelWidth": 1280,
+            "pixelHeight": 800,
+            "dpi": 160,
+            "currentPixelWidth": 1280,
+            "currentPixelHeight": 800,
+            "touch": [
+                "SINGLE"
+            ],
+            "keyboard": [
+                "DIRECTION"
+            ],
+            "video": {
+                "codecs": [
+                    "H_264_42",
+                    "H_264_41"
+                ]
+            }
+        },
+        "Extensions": {
+            "available": {
+                "aplext:backstack:10": {}
+            }
+        },
+        "Advertising": {
+            "advertisingId": "00000000-0000-0000-0000-000000000000",
+            "limitAdTracking": true
+        },
+        "System": {
+            "application": {
+                "applicationId": "amzn1.ask.skill.238f26fd-3881-4fa0-900c-4be7161c8d01"
+            },
+            "user": {
+                "userId": "amzn1.ask.account.AMAS3CNYDGUGEUUOGMID52X3T62OUAEGWVGHV7ADJX563YF7LYFJ5XDBDJQEZB5HIRPW7RSNKAE5EJ6IGMJRV46MU5NEOKVUDJBAN3AQLXGPI5MDXHSPHRIKJRPGP6BEOPKDV44LPVYSMZ24N47FJYKT35DXBPVBJJKHYJFAFY2HXKAYSHM7LNKHKI2ZCHF7CPAJXO6RSDPEDPMHGED5GS6F5LAZ5OUCBP23JUXIBI"
+            },
+            "device": {
+                "deviceId": "amzn1.ask.device.AMA6EZLDTA4YXMSWMDI4VK6PBGYOL4ATUXRQM2DUIOGLFZL6EQRB6PUZDFIUGWXECPOU7FFWSZHRCEUKUDBZJZP2NH5OEMQLAXVSOPDIQOTBZDJSUAG5ZRRG7CR2HWQM7QACNKTETJ6VTH5IG4DS57GQRYWZXILGYOXU7R6BP2Z3L7KVS7LJ4GJHWSSP4TTRF6COYFLOUB6LTEIW",
+                "supportedInterfaces": {}
+            },
+            "apiEndpoint": "https://api.eu.amazonalexa.com",
+            "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5ldS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjIzOGYyNmZkLTM4ODEtNGZhMC05MDBjLTRiZTcxNjFjOGQwMSIsImV4cCI6MTczMzI5MzUxMywiaWF0IjoxNzMzMjkzNDUzLCJuYmYiOjE3MzMyOTM0NTMsInByaXZhdGVDbGFpbXMiOnsiaXNGb3JSQSI6ImZhbHNlIiwiY29udGV4dCI6IkFBQUFBQUFBQVFEdEVZM2FzdlhQRVdPaUF4Tncxa1BJZHdFQUFBQUFBQURXUU55OStpUEdUN0Rjb0xmazh5OW91d28vS21tUkt5RU4rRVZrcFJwZUViQmtHY0MvQTRWOWdQcW9JZGVkZC9MUUkwVnNETDQ1R3FpSjk3cnIySnJqZnY5YWk4bncxYUdJcGhKYyt0Zm1oZ3Y0WVQ1U2dZbEx2bUpjTHhncFdmcFE1Si9VazhqVmFTd3Z3UUJjcWtzTW5rS2l6WStMWEV3bHdlVVFEdStkdHNLeVI0RU50YXRURWlTYmpLc0UzTEw0dVMrbEwybWZRcWpBa2F1TGhHMnh2TnNrVklUcENCdUZSS1NOUGtDS0RDV3ExcVFLRTNLRDVvMURta2FkM09qMlBoQi9CRTRQK1FyaUt5bWxsTEIwRVdLOTE4cnBQWjFJZ1l2R2dJbHdnT1dzUzFiZUU0RXNUbzNwamNyK05DWS9sNEdBSnlaZGJFWWt0cmpHSUdRSDRVRzFUNmdGUkE2Y2lRcUJ2OE1iNVBCeG1jVEFhWkxGUmpTK241WTEvWWpxNTlpL3RMMU91V0swS2gxMGgxWHhWOWF1d2Q5Y3FwTVJNOW9wa2lhTEl0VXkyZHpuczlZRDZvQnlGaTkyMmc3OUJISlRjTVk4cEQ5aHl4UlcrSlpWcVgydzJndWlPSExNV2tVSmZLOUZwSm0wajNtRXZmND0iLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQU1BNkVaTERUQTRZWE1TV01ESTRWSzZQQkdZT0w0QVRVWFJRTTJEVUlPR0xGWkw2RVFSQjZQVVpERklVR1dYRUNQT1U3RkZXU1pIUkNFVUtVREJaSlpQMk5INU9FTVFMQVhWU09QRElRT1RCWkRKU1VBRzVaUlJHN0NSMkhXUU03UUFDTktURVRKNlZUSDVJRzREUzU3R1FSWVdaWElMR1lPWFU3UjZCUDJaM0w3S1ZTN0xKNEdKSFdTU1A0VFRSRjZDT1lGTE9VQjZMVEVJVyIsInVzZXJJZCI6ImFtem4xLmFzay5hY2NvdW50LkFNQVMzQ05ZREdVR0VVVU9HTUlENTJYM1Q2Mk9VQUVHV1ZHSFY3QURKWDU2M1lGN0xZRko1WERCREpRRVpCNUhJUlBXN1JTTktBRTVFSjZJR01KUlY0Nk1VNU5FT0tWVURKQkFOM0FRTFhHUEk1TURYSFNQSFJJS0pSUEdQNkJFT1BLRFY0NExQVllTTVoyNE40N0ZKWUtUMzVEWEJQVkJKSktIWUpGQUZZMkhYS0FZU0hNN0xOS0hLSTJaQ0hGN0NQQUpYTzZSU0RQRURQTUhHRUQ1R1M2RjVMQVo1T1VDQlAyM0pVWElCSSJ9fQ.Lk7-eBNOBV-DLw8PIu47-FU4AYoAsVQWhNpLJnbxxI5-h_9KoDlXgOxHwj6hVxPZ68tBhFE53K_kc07sfadU4BMeLF2k_JZVtKEsgMXQGHXTwD0ubeGr2nl8xPrjYJB09Fs1hCT00ff4M3fIp-qP6FuXD0x5AZdznrwaTH3h5c7PkkQoKofrwc2igTcqwEQm_AwhlHo1PzQZsfOdODbY2Z3uoMdUBypjJ8Rj8w63MXm1WN6RsU0J9nUH-oyI4hLXA6GMWurx79LnlNWghLyaL-Qeeyj1yOnSotEVioCAe8cL6imq05Ad-pk839eHaK0u2lhEd3U-T_uQyWFucSCicA"
+        }
+    },
+    "request": {
+        "type": "IntentRequest",
+        "requestId": "amzn1.echo-api.request.7bd1a419-79a6-42af-8c66-3a9e397fb3ad",
+        "locale": "en-US",
+        "timestamp": "2024-12-04T06:24:13Z",
+        "intent": {
+            "name": "AmazonShoppingIntent",
+            "confirmationStatus": "NONE",
+            "slots": {
+                "query": {
+                    "name": "query",
+                    "value": "add an iPhone 13 charger to my shopping cart",
+                    "resolutions": {
+                        "resolutionsPerAuthority": [
+                            {
+                                "authority": "AlexaEntities",
+                                "status": {
+                                    "code": "ER_SUCCESS_NO_MATCH"
+                                }
+                            }
+                        ]
+                    },
+                    "confirmationStatus": "NONE",
+                    "source": "USER",
+                    "slotValue": {
+                        "type": "Simple",
+                        "value": "add an iPhone 13 charger to my shopping cart",
+                        "resolutions": {
+                            "resolutionsPerAuthority": [
+                                {
+                                    "authority": "AlexaEntities",
+                                    "status": {
+                                        "code": "ER_SUCCESS_NO_MATCH"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

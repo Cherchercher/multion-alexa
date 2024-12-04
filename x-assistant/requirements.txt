@@ -1,0 +1,9 @@
+ask-sdk-core
+multion
+mem0ai
+ask-sdk
+llama-index-agent-introspective
+llama-index-llms-openai
+llama-index-program-openai
+llama-index-readers-file
+agentops@https://github.com/Cherchercher/agentops/archive/refs/heads/alexa-multion.zip

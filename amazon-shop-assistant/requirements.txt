@@ -1,0 +1,5 @@
+ask-sdk-core
+multion
+mem0ai
+ask-sdk
+agentops@https://github.com/Cherchercher/agentops/archive/refs/heads/alexa-multion.zip
